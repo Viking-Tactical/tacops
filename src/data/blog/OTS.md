@@ -1,19 +1,19 @@
 ---
-title: ZTNET
+title: OTS
 author: Com. Sigvaldr
-pubDatetime: 2025-10-22T23:48:09.784Z
-slug: ztnet
+pubDatetime: 2025-10-22T23:49:30.500Z
+slug: ots
 featured: false
 draft: false
 tags:
-  - ztnet
+  - ots
 description:
-  ZTNET is a controller for ZeroTier Netorks
+  OTS is an open-source TAK Server
 ---
 
 ## Usage
 
-We use ZTNET to self-host our ZeroTier networks for cost effeciency and security.
+OpenTakServer allows us to self-host a central server for real-world tactical operations
 
 ### Access
 Access Level: <b>High-Command</b>

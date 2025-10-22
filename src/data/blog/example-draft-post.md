@@ -20,4 +20,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 rec 1
 
-<!-- Use `new Date().toISOString()` in terminal for date -->
+<!-- Use `new Date().toISOString()` in browser console for date -->
