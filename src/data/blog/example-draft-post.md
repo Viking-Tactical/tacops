@@ -1,8 +1,8 @@
 ---
-title: Example Draft Post
-author: Sat Naing
+title: EXAMPLE
+author: Com. Sigvaldr
 pubDatetime: 2022-06-06T04:06:31Z
-slug: example-draft-post
+slug: example-post
 featured: false
 draft: true
 tags:
@@ -14,8 +14,10 @@ description:
   fringilla est
 ---
 
-Users cannot see this post because it is in draft.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ## Motivation
 
 rec 1
+
+<!-- Use `new Date().toISOString()` in terminal for date -->
