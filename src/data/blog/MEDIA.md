@@ -16,7 +16,7 @@ description:
 Jellyfin allows us to host a netflix-like experience with media collected by Viking Tactical. We offer many movies, TV shows, and 20,000 songs.
 
 ### Access
-Access Level: <b>REDACTED</b>
+Access Level: <b>Sub-Command</b>
 
 Consult your CoC if you believe you need access
 
