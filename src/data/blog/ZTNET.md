@@ -1,8 +1,8 @@
 ---
 title: ZTNET
 author: Com. Sigvaldr
-pubDatetime: 2025-10-22T23:48:09.784Z
-slug: ztnet
+pubDatetime: 2025-10-23T00:01:51.568Z
+slug: zt-net
 featured: false
 draft: false
 tags:
@@ -16,7 +16,7 @@ description:
 We use ZTNET to self-host our ZeroTier networks for cost effeciency and security.
 
 ### Access
-Access Level: <b>High-Command</b>
+Access Level: <b>Command</b>
 
 Consult your CoC if you believe you need access
 
